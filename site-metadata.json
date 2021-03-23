@@ -1,6 +1,6 @@
 {
     "base_font": "fira-sans",
-    "palette": "purple",
+    "palette": "cyan",
     "header": {
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Logo",
