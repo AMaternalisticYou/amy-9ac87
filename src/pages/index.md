@@ -6,9 +6,8 @@ sections:
     image: images/IMG_0996.JPG
     image_alt: App preview
     title: A Maternalistic You
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      This is content yay im a dev
     actions:
       - label: Learn More
         url: /features
