@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/IMG_0996.JPG
     image_alt: App preview
     title: A Maternalistic You
     content: >-
